@@ -1,5 +1,5 @@
 // Portfolio.jsx
-// Single-file React component for a modern portfolio like https://parthkp126.github.io/protfolio/
+// Single-file React component for a modern portfolio like http//github.com/GranthSenjaliya/Portfolio
 // Uses Tailwind CSS for styling and framer-motion for simple animations.
 // To preview locally:
 // 1) Create a new React app (Vite or CRA).
