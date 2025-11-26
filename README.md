@@ -1,5 +1,5 @@
 // Portfolio.jsx
-// Single-file React component for a modern portfolio like https://granthsenjaliya.github.io/Portfolio/
+// Single-file React component for a modern portfolio like https://granthsenjaliya.github.io/protfolio/
 // Uses Tailwind CSS for styling and framer-motion for simple animations.
 // To preview locally:
 // 1) Create a new React app (Vite or CRA).
@@ -75,8 +75,8 @@ export default function Portfolio() {
             </div>
 
             <div className="mt-8 flex gap-4 text-gray-500">
-              <a href="#" aria-label="GitHub" title="GitHub">GitHub</a>
-              <a href="#" aria-label="LinkedIn" title="LinkedIn">LinkedIn</a>
+              <a href="https://github.com/granthsenjaliya" aria-label="GitHub" title="GitHub">GitHub</a>
+              <a href="https://linkedin.com/in/granthsenjaliya" aria-label="LinkedIn" title="LinkedIn">LinkedIn</a>
               <a href="#" aria-label="Twitter" title="Twitter">Twitter</a>
             </div>
           </motion.div>
@@ -165,7 +165,7 @@ export default function Portfolio() {
 
             <div className="mt-4 flex gap-3">
               <a href="mailto:granth@example.com" className="inline-flex items-center px-4 py-2 rounded-lg bg-indigo-600 text-white">Email me</a>
-              <a href="#" className="inline-flex items-center px-4 py-2 rounded-lg border">LinkedIn</a>
+              <a href="https://linkedin.com/in/granthsenjaliya" className="inline-flex items-center px-4 py-2 rounded-lg border">LinkedIn</a>
             </div>
           </div>
         </section>
